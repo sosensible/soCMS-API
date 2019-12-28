@@ -1,2 +1,2 @@
-# soCMS
+# soCMS-API
 Multitenancy CMS
